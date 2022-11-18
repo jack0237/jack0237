@@ -38,7 +38,7 @@
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack0237&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=fff&theme=graywhite">
   </a> 
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jack0237&bg_color=085&color=000&line=000&point=000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jack0237&bg_color=0e9a91&color=4f404e&line=090811&point=140f0f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
