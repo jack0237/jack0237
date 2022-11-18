@@ -1,4 +1,3 @@
-<img src="https://github.com/ngdream/ngdream/blob/0f7fe99d6890b4ac7a7cf1650e549b058658c6d8/banner-top.png">
 <div align="center"><img src="https://github.com/ngdream/ngdream/blob/27438ff71840938ac35fc9fd931e80e8a5288c58/love.png"></div>
 
 
@@ -47,10 +46,8 @@
  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngdream&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
   </a> 
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ngdream&bg_color=f3a5cf&color=6d3169&line=be1eb3&point=8a0043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jack0237&bg_color=f3a5cf&color=6d3169&line=be1eb3&point=8a0043&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<img src="banner-bottom.png">
 
 
 
